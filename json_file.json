@@ -1,0 +1,25 @@
+{
+   "offices":[
+      {
+         "city":"Москва",
+         "email":"testemail1@gmail.com",
+         "contact":{
+            "mobile":"+900000000000"
+         }
+      },
+      {
+         "city":"Москва",
+         "email":"testemail1@gmail.com",
+         "contact":{
+            "mobile":"+900000000000"
+         }
+      },
+      {
+         "city":"Москва",
+         "email":"testemail1@gmail.com",
+         "contact":{
+            "mobile":"+900000000000"
+         }
+      }
+   ]
+}
